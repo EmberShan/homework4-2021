@@ -77,9 +77,11 @@ td{
   color: #FFFFFF;
   min-width: 125px;
   padding: 10px;
+  display: relative;
   text-align: center;
   vertical-align: center;
   background-color: #7e0825;
+  text-transform: uppercase;
 }
 
 .rowhead{
@@ -134,5 +136,5 @@ footer{
   min-height: 75px;
   position: fixed;
   bottom: 0px;
-  margin: 0 -1.2em 0 -1.2em;
+  left: 0;
 }
